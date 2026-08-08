@@ -72,7 +72,7 @@ The following visualizations were created to understand the dataset:
 
 ### Scatter Plot
 
-![Scatter Plot](images/scatterB.png)
+![Scatter Plot](images/sactterB.png)
 
 ---
 
