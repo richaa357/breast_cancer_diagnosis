@@ -49,7 +49,7 @@ These measurements are provided as mean, standard error, and worst values.
 * Matplotlib
 * Seaborn
 * Scikit-learn
-* Jupyter Notebook / Google Colab
+* Google Colab
 
 ---
 
@@ -121,29 +121,6 @@ The model was evaluated using:
 * ROC-AUC
 
 
-
-
-
-
----
-
-## 📁 Project Structure
-
-```text
-Breast-Cancer-Logistic-Regression/
-│
-├── data.csv
-├── Breast_Cancer_Logistic_Regression.ipynb
-├── images/
-│   ├── diagnosis_distribution.png
-│   ├── histograms.png
-│   ├── boxplot.png
-│   ├── correlation_heatmap.png
-│   ├── scatterplot.png
-│   ├── confusion_matrix.png
-│   └── roc_curve.png
-│
-└── README.md
 
 
 
